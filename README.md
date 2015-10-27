@@ -1,2 +1,8 @@
-# angular-ui-components-hrm
-UI components
+# angular-ui-components
+
+Modules included
+---
+* Datepicker
+* tooltip
+* typeahead
+* Accordion
