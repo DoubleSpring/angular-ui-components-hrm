@@ -1,0 +1,5 @@
+{
+  "name": "angular-ui-components",
+  "version": "0.14.3",
+  "main": ["ui-bootstrap-custom-tpls-0.14.3.min.js"]
+}
