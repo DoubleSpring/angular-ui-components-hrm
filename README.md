@@ -6,3 +6,4 @@ Modules included
 * tooltip
 * typeahead
 * Accordion
+* popover
